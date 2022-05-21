@@ -5,7 +5,7 @@
 
 ## 프로젝트의 개요
 * 개발기간: 8주
-* 개발도구: Unity 3d engine
+* 개발도구: Unity 3d Engine
 * 개발언어: C#
 * 플랫폼: Windows, Android, ios(포팅 예정)
 

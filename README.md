@@ -26,5 +26,5 @@
   
 
 # 시연 영상
- * https://www.youtube.com/watch?v=jKNFAeAVzQU
+ * https://youtu.be/Y7fT8VRytiE
 

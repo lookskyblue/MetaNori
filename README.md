@@ -1,14 +1,15 @@
-# 프로젝트명
-MetaverseClassroom
+# 메타노리
+### 역할: 클라이언트 메인 개발
+### Technical Lead
+  - Unity 기술 및 디버깅 지원
+  - Unity C# 기능 구현 지원
+### Project Lead
+  - 기능 구현에 필요한 Reference 공유
+### People Management
+  - 필요한 Unity Tooling 공유
+  - 팀원들의 프로젝트 계획 및 코딩에 대한 멘토링
+  
 
-## 프로젝트 소개
-팀원들과 협력하여 만든 Unity 엔진을 기반으로 제작된 메타버스 온라인 강의실 플랫폼 입니다.
+# 시연 영상
+ * https://www.youtube.com/watch?v=jKNFAeAVzQU
 
-## 프로젝트의 개요
-* 개발기간: 8주
-* 개발도구: Unity 3d Engine
-* 개발언어: C#
-* 플랫폼: Windows, Android, ios(포팅 예정)
-
-## 시연 영상
-https://
